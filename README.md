@@ -1,7 +1,8 @@
 # SmartTimetable
 
 The link to my website
-smart-timetable-20fo0p50l-smart-timetable.vercel.app
+
+https://smart-timetable-8htctwc92-smart-timetable.vercel.app/
 
 SmartTimetable is a modern, full-stack web application designed to help users create, manage, and optimize schedules efficiently. Built with a JavaScript ecosystem, it leverages a separate frontend and backend architecture for scalability and clean separation of concerns.
 
